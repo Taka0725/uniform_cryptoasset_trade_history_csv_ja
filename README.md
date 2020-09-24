@@ -15,6 +15,9 @@
 
 * ここで規定するフォーマットについて疑問や訂正事項がある場合、このレポジトリに対して論点ごとに Issue または Pull Request を作成すること。（テンプレート有）
 * バージョンの変更は、 [Semantic Versioning](https://semver.org/) に従い、新規 Git tag をつけた時点で更新したものとする。
+* 具体的なフォーマットは、下記ファイルにて記述される。
+  * 現物取引の場合 ... [`schema_spot.json`](./schema_spot.json)
+  * レバレッジ取引の場合 ... [`schema_leverage.json`](./schema_leverage.json)
 
 ## 規約の概要
 
