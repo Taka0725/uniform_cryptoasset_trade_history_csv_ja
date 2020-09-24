@@ -1,0 +1,65 @@
+
+{
+    "fields": [
+        {
+            "name": "取引年月日",
+            "required": true
+        },
+        {
+            "name": "取引種別",
+            "required": true
+        },
+        {
+            "name": "取引形態",
+            "required": true
+        },
+        {
+            "name": "通貨ペア",
+            "required": true
+        },
+        {
+            "name": "増加通貨名",
+            "required": true
+        },
+        {
+            "name": "増加数量",
+            "required": true
+        },
+        {
+            "name": "減少通貨名",
+            "required": true
+        },
+        {
+            "name": "減少数量",
+            "required": true
+        },
+        {
+            "name": "約定価格",
+            "required": true
+        },
+        {
+            "name": "単価",
+            "required": true
+        },
+        {
+            "name": "手数料通貨",
+            "required": true
+        },
+        {
+            "name": "手数料数量",
+            "required": true
+        },
+        {
+            "name": "送付元アドレス",
+            "required": true
+        },
+        {
+            "name": "送付先アドレス",
+            "required": true
+        },
+        {
+            "name": "備考",
+            "required": true
+        }
+    ]
+}

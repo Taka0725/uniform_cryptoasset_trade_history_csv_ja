@@ -1,0 +1,69 @@
+
+{
+    "fields": [
+        {
+            "name": "取引年月日",
+            "required": true
+        },
+        {
+            "name": "取引種別",
+            "required": true
+        },
+        {
+            "name": "取引形態",
+            "required": true
+        },
+        {
+            "name": "通貨ペア",
+            "required": true
+        },
+        {
+            "name": "売り又は買いの別",
+            "required": true
+        },
+        {
+            "name": "約定数量",
+            "required": true
+        },
+        {
+            "name": "約定価格",
+            "required": true
+        },
+        {
+            "name": "約定金額",
+            "required": true
+        },
+        {
+            "name": "手数料通貨",
+            "required": true
+        },
+        {
+            "name": "手数料数量",
+            "required": true
+        },
+        {
+            "name": "入金・出金",
+            "required": true
+        },
+        {
+            "name": "決済損益",
+            "required": true
+        },
+        {
+            "name": "レバレッジ手数料",
+            "required": true
+        },
+        {
+            "name": "預託JPY",
+            "required": true
+        },
+        {
+            "name": "預託BTC",
+            "required": true
+        },
+        {
+            "name": "約定番号",
+            "required": true
+        }
+    ]
+}
